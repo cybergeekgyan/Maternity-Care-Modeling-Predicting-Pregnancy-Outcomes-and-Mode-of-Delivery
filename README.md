@@ -31,7 +31,7 @@ The main objectives of this project are as follows:
 - Predict pregnancy outcomes (e.g., complications) using machine learning and deep learning techniques.
 - Predict the mode of delivery (vaginal or cesarean section) for pregnant patients.
 
-We believe that Maternity Care Modeling has the potential to make a significant positive impact on the lives of expectant parents and their children. Your involvement in this project is greatly appreciated, and together, we can contribute to the advancement of healthcare and maternal well-being.
+We believe that Maternity Care Modeling has the potential to make a significant positive impact on the lives of expectant parents and their children.
 
 
 ## Dataset
